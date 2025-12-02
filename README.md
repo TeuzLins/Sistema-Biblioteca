@@ -113,3 +113,10 @@ curl -s -X POST http://localhost:3001/livros \
   -H "Content-Type: application/json" \
   -H "x-user-id: <ID_DO_ADMIN>" \
   -d '{"titulo":"Clean Architecture","autor":"Robert C. Martin","categoria":"Programação","ano":2017,"quantidadeTotal":2}'
+
+
+## License
+Este projeto está sob a MIT License.  
+Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
+
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
